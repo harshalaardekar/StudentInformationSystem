@@ -3,6 +3,7 @@ package model;
 public class Account {
 	private int account_no;
 	private String name;
+	
 	public int getAccount_no() {
 		return account_no;
 	}
