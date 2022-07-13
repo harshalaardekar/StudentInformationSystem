@@ -1,5 +1,5 @@
 package model;
-
+// this is course file
 public class Course {
 	private int courseId;
 	private String courseName;
